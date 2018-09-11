@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class MergeConflict1 : MonoBehaviour {
-    public int speed = 8;
+    public int speed = 10;
 	// Use this for initialization
 	void Start () {
 		
